@@ -32,6 +32,7 @@ while op!=0:
   if op==1:
     kwh=167.6
     break
+    
   elif op==2:
     kwh=125.2
     break
